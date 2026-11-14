@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
+    std::cout<< "Welcom to SimpleCalculator!" << std::endl;
     int a, b;
 
     std::cout<< "Enter two integers: ";
